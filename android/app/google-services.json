@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244150481692",
+    "project_id": "currency-e266f",
+    "storage_bucket": "currency-e266f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244150481692:android:f063c7691555a1c09d80d9",
+        "android_client_info": {
+          "package_name": "com.example.currencyexchange1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnbfq0fpsURO8t-y_qSHe_nzDhJRmB9fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
